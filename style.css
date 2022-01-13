@@ -16,6 +16,9 @@ body {
   background-color:steelblue;
 }
 
+.h1 {
+  color: navy
+}
 .empty {
   height: 150px;
   width: 150px;
@@ -32,12 +35,12 @@ body {
 }
 
 .hold {
-  border: solid 5px #ccc;
+  border: solid 7px lightgray;
 }
 
 .hovered {
-  background-color: #333;
-  border-color: white;
+  background-color: lightcoral;
+  border-color: navy;
   border-style: dashed;
 }
 
